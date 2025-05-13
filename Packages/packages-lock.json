@@ -121,6 +121,23 @@
       },
       "url": "https://packages.unity.com"
     },
+    "com.unity.connect.share": {
+      "version": "4.2.3",
+      "depth": 0,
+      "source": "registry",
+      "dependencies": {
+        "com.unity.editorcoroutines": "1.0.0",
+        "com.unity.settings-manager": "1.0.2"
+      },
+      "url": "https://packages.unity.com"
+    },
+    "com.unity.editorcoroutines": {
+      "version": "1.0.0",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
     "com.unity.ext.nunit": {
       "version": "2.0.5",
       "depth": 1,
@@ -241,6 +258,13 @@
       "dependencies": {},
       "url": "https://packages.unity.com"
     },
+    "com.unity.settings-manager": {
+      "version": "2.1.0",
+      "depth": 1,
+      "source": "registry",
+      "dependencies": {},
+      "url": "https://packages.unity.com"
+    },
     "com.unity.shadergraph": {
       "version": "17.0.4",
       "depth": 1,
@@ -252,7 +276,7 @@
     },
     "com.unity.test-framework": {
       "version": "1.5.1",
-      "depth": 0,
+      "depth": 1,
       "source": "builtin",
       "dependencies": {
         "com.unity.ext.nunit": "2.0.3",
