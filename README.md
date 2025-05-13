@@ -1,3 +1,3 @@
 # Rheology-of-33-cats
 <hr>
-(https://github.com/user-attachments/assets/c02ab39d-38ef-4847-9590-42a755277cf9
+![image](https://github.com/user-attachments/assets/18ae282e-6b93-4de1-a1bb-ef69077615b2)
